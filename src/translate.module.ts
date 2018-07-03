@@ -51,9 +51,6 @@ import {
  *  provide your own implementation of a TranslationKeyTransformator. Make sure your transformator implements
  *  the ITranslationKeyTransformator interface
  *
- *  BbbvTouch uses this transformation to be able to provide an enum to the translate service and get its
- *  value translated to the desired language
- *
  */
 @NgModule({
               imports: [CommonModule, HttpClientModule],
