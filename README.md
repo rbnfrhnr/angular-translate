@@ -107,4 +107,7 @@ TranslationAsyncLoader is responsible of fetching the json files, generating the
               ],
 ```
  
+ # Pipe
+ angular-translate comes with a pipe to use in your angular templates. Despite the pipe being pure, it still can adapt to changes such as language switches. 
+ 
  
